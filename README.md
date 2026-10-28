@@ -122,16 +122,11 @@ As I continue learning, I plan to expand this lab by:
 - Learning more about network traffic analysis.
 - Documenting additional cybersecurity exercises.
 
-## 👨‍💻 Author
+##  Achnologments
+Thanks to Networkwalks for this opportunity, and to my instructor,, Waqas Karim,, for the guidance and lab assignment.
 
-**Yomi Classy**
+##  Author
 
-Cybersecurity Learner | Aspiring Security Professional
-
-- GitHub: [@yomi-classy](https://github.com/yomi-classy)
+Abiodun Oluwabusayomi Emmanuel - Linkedln Url: www.linkedin.com/in/abiodun-oluwabusayomi-23ba2333b
 
 ---
-
-⭐ This is one of my first practical cybersecurity projects. I will continue updating this repository as I build more knowledge and gain hands-on experience in cybersecurity.
-
-**Learning by doing, one lab at a time.**
