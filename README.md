@@ -122,7 +122,7 @@ As I continue learning, I plan to expand this lab by:
 - Learning more about network traffic analysis.
 - Documenting additional cybersecurity exercises.
 
-##  Achnologments
+##  Acknowledgments
 Thanks to Networkwalks for this opportunity, and to my instructor,, Waqas Karim,, for the guidance and lab assignment.
 
 ##  Author
