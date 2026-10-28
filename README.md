@@ -9,7 +9,7 @@
 
 This repository documents my first hands-on cybersecurity lab setup as part of my NetworkWalks PM1 training.
 
-The goal of this project was to get familiar with setting up a virtual cybersecurity environment using Kali Linux and Oracle VirtualBox. I also explored the network configuration options available in VirtualBox, particularly NAT Network.
+The goal of this project was to get familiar with setting up a virtual cybersecurity environment using Kali Linux and VirtualBox. I also explored the network configuration options available in VirtualBox, particularly NAT Network.
 
 This was an opportunity to move beyond theoretical learning and gain practical experience with virtual machines and basic network configuration.
 
