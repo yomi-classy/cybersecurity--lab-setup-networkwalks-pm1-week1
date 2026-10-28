@@ -1,4 +1,3 @@
-# cybersecurity--lab-setup-networkwalks-taskweek1
 # 🛡️ Cybersecurity Lab Setup – NetworkWalks PM1 Week 1
 
 ![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=kalilinux)
