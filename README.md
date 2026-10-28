@@ -4,6 +4,12 @@
 ![VirtualBox](https://img.shields.io/badge/Platform-VirtualBox-183A61?logo=virtualbox)
 ![Project](https://img.shields.io/badge/Type-Personal%20Project-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+<img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
 
 ## 📌 Introduction
 
@@ -26,13 +32,13 @@ This was an opportunity to move beyond theoretical learning and gain practical e
 | Tool | Purpose |
 |---|---|
 | Kali Linux | Linux distribution used for the cybersecurity lab |
-| Oracle VirtualBox | Virtualization platform |
+| VirtualBox | Virtualization platform |
 | NAT Network | Virtual networking configuration |
 | GitHub | Project documentation and version control |
 
 ## 🖥️ Lab Environment
 
-For this project, I used Oracle VirtualBox to create and manage my Kali Linux virtual machine.
+For this project, I used VirtualBox to create and manage my Kali Linux virtual machine.
 
 The lab environment involved:
 
